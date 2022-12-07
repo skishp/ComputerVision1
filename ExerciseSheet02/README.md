@@ -18,3 +18,6 @@ Load the images `flower01.png` and `flower02.png`.
 * To decrease the effect of low frequencies, multiply both spectra with a high-pass filter. For this purpose, generate a Gaussian G(u,v) with standard deviation equal to half of the size of the image.
 * In order to assess the energy content of the highpass filtered image, calculate the sum of squared amplitudes for all frequency values. A sharp image should have a higher energy than a blurred one. 
 * Plot the filtered amplitude spectra and annotate them with their energy. 
+
+## Solution 
+A Summary of the Solution can be found in `CV1_Ex02_Skivjani.pdf`.
